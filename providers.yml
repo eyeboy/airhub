@@ -1,0 +1,7 @@
+providers:
+  - name: vpn.fail-v2ray
+    type: raw
+    url: https://vpn.fail/free-proxy/v2ray
+  - name: go4sharing
+    type: clash-sub
+    url: https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml

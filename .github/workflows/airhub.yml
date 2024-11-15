@@ -1,0 +1,76 @@
+name: Airport Subscription Generator
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  speedtest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: '1.23'
+
+      # - name: Go Cache Modules
+      #   uses: actions/cache@v3
+      #   with:
+      #     path: |
+      #       ~/.cache/go-build
+      #       ~/go/pkg/mod
+      #     key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
+      #     restore-keys: |
+      #       ${{ runner.os }}-go-
+
+      # - name: Cache clash-speedtest binary
+      #   uses: actions/cache@v3
+      #   with:
+      #     path: ~/go/bin/clash-speedtest
+      #     key: ${{ runner.os }}-clash-speedtest-${{ hashFiles('~/go/bin/clash-speedtest') }}
+
+      - name: Install clash-speedtest
+        # if: steps.cache-speedtest.outputs.cache-hit != 'true'
+        run: go install github.com/faceair/clash-speedtest@latest
+
+      - name: Setup Python
+        uses: actions/setup-python@v5.3.0
+        with:
+          python-version: 3.11
+
+      - name: Python Dependency Installation
+        uses: py-actions/py-dependency-install@v4
+        with:
+          path: requirements.txt
+          update-pip: false
+
+      - name: Run get proxies from providers
+        run: python get_proxies.py
+
+      - name: Run clash-speedtest
+        run: |
+          ~/go/bin/clash-speedtest -c source-proxies.yml -output clash-sub.yml -max-latency 2s -min-speed 0 -concurrent 8 -download-size 5 -upload-size 2
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+
+          git add source-proxies.yml clash-sub.yml
+
+          if git diff --cached --quiet; then
+            echo "没有检测到变更，跳过提交"
+            exit 0
+          fi
+
+          git commit -m "config: update sub"
+          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
