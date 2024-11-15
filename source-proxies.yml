@@ -4437,3 +4437,31 @@ proxies:
     headers:
       Host: xmivideo.cfd
     path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 0|--46_1
+  network: ws
+  port: 443
+  server: 216.24.57.171
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d
+  ws-opts:
+    headers:
+      Host: 2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com
+    path: /obdii.cfd:443/linkws
+- alterId: 0
+  cipher: auto
+  name: 🇮🇷IR-2.189.59.6-1282
+  network: ws
+  port: 443
+  server: 2.189.59.6
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d
+  ws-opts:
+    headers:
+      Host: obdii.cfd
+    path: /linkws
