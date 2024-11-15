@@ -4853,3 +4853,17 @@ proxies:
     headers:
       Host: vless.ifx.us.kg
     path: /?ed=2560
+- alterId: '0'
+  cipher: auto
+  name: 日本 v2rayfree.eu.org
+  network: tcp
+  port: 43720
+  server: 61.120.9.18
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: f248d0e9-19f7-ea7f-6659-17a610dfe8d6
+  ws-opts:
+    headers:
+      Host: ''
+    path: /
