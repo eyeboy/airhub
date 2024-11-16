@@ -4881,3 +4881,73 @@ proxies:
     headers:
       Host: mysan2.jaquay22.workers.dev
     path: /afrhms16v.bestxray.buzz/linkws
+- alterId: 1
+  cipher: auto
+  name: 🏁RELAY-172.67.158.49-1414
+  network: ws
+  port: 443
+  server: 172.67.158.49
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    headers:
+      Host: yelan.thelastronin.cloudns.org
+    path: /linkvws/d.seribus.org
+- alterId: 1
+  cipher: auto
+  name: 🏁RELAY-104.21.46.27-1339
+  network: ws
+  port: 443
+  server: bs.yichueng.org
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    headers:
+      Host: bs.yichueng.org
+    path: linkvws
+- alterId: '0'
+  cipher: auto
+  name: 🛡️ConfigV2RayNG
+  network: ws
+  port: '46271'
+  server: 158.180.91.206
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: f99bfe05-e351-47df-e752-ac0aaea976dc
+  ws-opts:
+    headers:
+      Host: kr.huafei888.site
+    path: /
+- alterId: '1'
+  cipher: auto
+  name: 🛡️ConfigV2RayNG_1
+  network: ws
+  port: '443'
+  server: 172.67.182.196
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    headers:
+      Host: c.hungshing.org
+    path: linkvws
+- alterId: '0'
+  cipher: auto
+  name: 🛡️ConfigV2RayNG_2
+  network: grpc
+  port: '8443'
+  server: 85.159.229.88
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: afe57557-df24-43e5-9cea-5d2acc2cad08
+  ws-opts:
+    headers:
+      Host: ''
+    path: ''
