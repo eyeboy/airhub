@@ -5273,3 +5273,59 @@ proxies:
     headers:
       Host: v58.thur.store
     path: /t.me/redbullvpnss
+- alterId: 0
+  cipher: auto
+  name: 🏁RELAY-104.18.15.19-1172
+  network: ws
+  port: 2082
+  server: 104.18.15.19
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 🇸🇬SG-152.42.216.27-1283
+  network: ws
+  port: 443
+  server: id.mytun.cloud
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 1d1c1d94-6987-4658-a4dc-8821a30fe7e0
+  ws-opts:
+    headers:
+      Host: id.mytun.cloud
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 🏁RELAY-172.67.138.69-1277
+  network: ws
+  port: 80
+  server: ParsVDS.ir
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 4804f14b-c1f8-452d-a6ec-eff1490aeac9
+  ws-opts:
+    headers:
+      Host: hdfy6c1.freelines.net
+    path: /lRkGCkYS9X5GDNJYMWXN7kCm3lL
+- alterId: 64
+  cipher: auto
+  name: 🇺🇸US-38.33.1.188-1913
+  network: ws
+  port: 37003
+  server: 38.33.1.188
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+  ws-opts:
+    headers:
+      Host: ''
+    path: /path/352427300114
