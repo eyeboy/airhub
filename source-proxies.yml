@@ -5217,3 +5217,45 @@ proxies:
     headers:
       Host: snowy-river-f497.turkeys-radford.workers.dev
     path: /linde06.indiavideo.sbs/linkws
+- alterId: 0
+  cipher: auto
+  name: 🏁RELAY-104.16.61.8-0089
+  network: ws
+  port: 2096
+  server: 104.16.61.8
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: a1655f51-1e20-4a92-8a11-b7ca30a7a353
+  ws-opts:
+    headers:
+      Host: 7whrapid-river-a083.sisay70779.workers.dev
+    path: /afrhms07.xfixedfloat.cfd/linkws
+- alterId: '0'
+  cipher: auto
+  name: Akari HongKong _<
+  network: tcp
+  port: '16004'
+  server: 120.240.163.2
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 964f7387-41b2-3b17-b43a-493cc8b65d13
+  ws-opts:
+    headers:
+      Host: ''
+    path: ''
+- alterId: '0'
+  cipher: auto
+  name: HKT HongKong _<
+  network: tcp
+  port: '11802'
+  server: 103.216.253.100
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: f6195be4-37bc-3cc8-917e-50c704e2f974
+  ws-opts:
+    headers:
+      Host: ''
+    path: ''
