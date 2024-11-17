@@ -5259,3 +5259,17 @@ proxies:
     headers:
       Host: ''
     path: ''
+- alterId: '0'
+  cipher: auto
+  name: 🧫ConfigV2RayNG
+  network: ws
+  port: '2086'
+  server: vivo.com.br
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: c183636d-a174-47b9-ccf8-3442e6e1ec81
+  ws-opts:
+    headers:
+      Host: v58.thur.store
+    path: /t.me/redbullvpnss
