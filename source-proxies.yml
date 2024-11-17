@@ -5343,3 +5343,17 @@ proxies:
     headers:
       Host: 2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com
     path: /obdii.cfd:443/linkws
+- alterId: '0'
+  cipher: auto
+  name: '[🏁]t.me/ConfigsHub_4'
+  network: ws
+  port: '20292'
+  server: 8.211.192.102
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 57f5c2bd-bb79-4fd8-eea1-a84d1ddf3a21
+  ws-opts:
+    headers:
+      Host: ''
+    path: /
