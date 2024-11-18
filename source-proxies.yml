@@ -5455,3 +5455,17 @@ proxies:
     headers:
       Host: sb24.ir.d7e1909f3a7e4477.www.speedtest.net.kish.ir.tabnak.ir.entekhab.ir.leader.ir.asiatech.ir.divar.ir.shahr-bank.ir.postbank.ir.qmb.ir.sid.ir.codal.ir.anten.ir.011010100110111101110011011101000110000101110010110111010001100.dE.
     path: /api01/deam_net301.67 GB/?ed=2560
+- alterId: 0
+  cipher: auto
+  name: 🏁RELAY-104.16.68.38-0332
+  network: ws
+  port: 2082
+  server: 104.16.68.38
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 76221bfb-e92f-4e80-81c5-6fe48f50ac0b
+  ws-opts:
+    headers:
+      Host: snowy-river-f497.turkeys-radford.workers.dev
+    path: /glweidf.sbs/linkws
