@@ -5469,3 +5469,361 @@ proxies:
     headers:
       Host: snowy-river-f497.turkeys-radford.workers.dev
     path: /glweidf.sbs/linkws
+- alterId: 0
+  cipher: auto
+  delay: 2026
+  name: 德国 - 法兰克福 - Leaseweb Deutschland GmbH - 2
+  network: ws
+  port: 2083
+  server: dg.mnys668.xyz
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4c9e92ad-1bce-46e1-8d34-8360f3766d78
+  ws-opts:
+    headers:
+      Host: dg.mnys668.xyz
+    path: /
+- country: 🇩🇪DE
+  delay: 1074
+  name: 德国 - Frankfurt am Main - Amazon.com - 3
+  network: tcp
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 63.176.195.213
+  sni: trojan.burgerip.co.uk
+  type: trojan
+  udp: true
+- cipher: aes-256-gcm
+  delay: 694
+  name: 俄罗斯 - 莫斯科 - LLC BAXET - 1
+  password: dongtaiwang.com
+  port: 12345
+  server: 46.17.40.57
+  type: ss
+- cipher: aes-256-cfb
+  delay: 1755
+  name: 韩国 - 首尔特别市 - Amazon Technologies Inc. - 1
+  password: amazonskr05
+  port: 443
+  server: 13.125.37.249
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇰🇷KR
+  delay: 1317
+  name: 韩国 - 首尔特别市 - Amazon Technologies Inc. - 4
+  password: amazonskr05
+  port: 443
+  server: 13.125.158.71
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇰🇷KR
+  delay: 1310
+  name: 韩国 - 首尔特别市 - Amazon.com, Inc. - 3
+  password: amazonskr05
+  port: 443
+  server: 3.35.137.32
+  type: ss
+- cipher: aes-128-cfb
+  delay: 878
+  name: 荷兰 - Rozendaal - NForce Entertainment B.V. - 1
+  password: shadowsocks
+  port: 443
+  server: 109.201.152.181
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇺🇸US
+  delay: 1630
+  name: 美国 - 波特蘭 - Amazon.com, Inc. - 13
+  password: amazonskr05
+  port: 443
+  server: 35.86.117.124
+  type: ss
+- alterId: 0
+  cipher: auto
+  country: 🏁ZZ
+  delay: 946
+  h2-opts: {}
+  http-opts: {}
+  name: 美国 - 洛杉矶 - Psychz Networks - 11
+  network: ws
+  port: 2095
+  server: 104.21.238.100
+  servername: ip2.6016725.xyz
+  skip-cert-verify: true
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      HOST: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  delay: 1399
+  name: 美国 - 洛杉矶 - Psychz Networks - 5
+  network: ws
+  port: 2095
+  server: 172.64.198.249
+  servername: ip23.6016725.xyz
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      Host: ip23.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  delay: 1138
+  name: 美国 - 洛杉矶 - Psychz Networks - 7_1
+  network: ws
+  port: 2095
+  server: 172.64.166.9
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      Host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  delay: 2106
+  name: 美国 - 洛杉矶 - Psychz Networks - 8_1
+  network: ws
+  port: 2082
+  server: 104.19.38.12
+  servername: ip26.6929198.xyz
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip26.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 64
+  cipher: auto
+  country: 🇺🇸US
+  delay: 1811
+  h2-opts: {}
+  http-opts: {}
+  name: 美国 - 聖荷西 - PEG TECH INC - 6
+  network: ws
+  port: 38007
+  server: 142.4.108.140
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+  ws-opts:
+    path: /path/081412110418
+- cipher: rc4-md5
+  country: 🇺🇸US
+  delay: 1010
+  name: 美国 - 芝加哥 - Datacamp Limited - 4
+  password: 14fFPrbezE3HDZzsMOr6
+  port: 8080
+  server: 138.199.42.68
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  delay: 2426
+  name: 挪威 - Lorenskog - Microsoft Corporation - 1
+  password: qizZXnha0GEjyEdaBc64mr
+  port: 17563
+  server: 51.13.112.29
+  type: ss
+- alterId: 0
+  cipher: auto
+  delay: 2954
+  name: 葡萄牙 - 里斯本 - Stark Industries Solutions LTD - 1_1
+  network: ws
+  port: 443
+  server: tqvbhkgpbmudcrlzwdrcpkejltizqxo.roxifa.ir
+  servername: gIpZVHAxbMvDFwkByCdOKXPTcaSrEU.roxifa.ir
+  tls: true
+  type: vmess
+  uuid: 76730d3a-f32c-46b8-ae60-f222cb820e7e
+  ws-opts:
+    headers:
+      Host: tqvbhkgpbmudcrlzwdrcpkejltizqxo.roxifa.ir
+    path: '@RaFaV2Bot'
+- alterId: 0
+  cipher: auto
+  country: 🇺🇸US
+  delay: 2693
+  h2-opts: {}
+  http-opts: {}
+  name: 葡萄牙 - 里斯本 - Stark Industries Solutions LTD - 2
+  network: ws
+  port: 443
+  server: zLMiXBYNAwsZqkpmsdrbgtPRhTQuIcv.roxifa.ir
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 76730d3a-f32c-46b8-ae60-f222cb820e7e
+  ws-opts:
+    path: '@RaFaV2Bot'
+- alterId: 0
+  cipher: auto
+  country: 🏁ZZ
+  delay: 2718
+  h2-opts: {}
+  http-opts: {}
+  name: 葡萄牙 - 里斯本 - Stark Industries Solutions LTD - 3
+  network: ws
+  port: 443
+  server: EMtCQKsWjNBhoFAzVxwYiZGkPegdyIc.roxifa.ir
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 76730d3a-f32c-46b8-ae60-f222cb820e7e
+  ws-opts:
+    path: '@RaFaV2Bot'
+- alterId: 0
+  cipher: auto
+  delay: 2763
+  name: 葡萄牙 - 里斯本 - Stark Industries Solutions LTD - 4
+  network: ws
+  port: 443
+  server: zlmixbynawszqkpmsdrbgtprhtquicv.roxifa.ir
+  servername: idQYbrCZsOuURGaLNhmyolPMVIzptK.roxifa.ir
+  tls: true
+  type: vmess
+  uuid: 76730d3a-f32c-46b8-ae60-f222cb820e7e
+  ws-opts:
+    headers:
+      Host: zlmixbynawszqkpmsdrbgtprhtquicv.roxifa.ir
+    path: '@RaFaV2Bot'
+- delay: 1789
+  name: 日本 - 大阪市 - The Constant Company - 7
+  password: QwwHvrnN
+  port: 17806
+  server: 36.151.192.239
+  skip-cert-verify: true
+  type: trojan
+- cipher: aes-256-cfb
+  country: 🇯🇵 JP
+  delay: 1340
+  name: 日本 - 东京 - Amazon Technologies Inc. - 3
+  password: amazonskr05
+  port: 443
+  server: 3.112.215.69
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇯🇵JP
+  delay: 883
+  name: 日本 - 东京 - Amazon Technologies Inc. - 4
+  password: amazonskr05
+  port: 443
+  server: 54.238.65.143
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇯🇵JP
+  delay: 1336
+  name: 日本 - 东京 - Amazon Technologies Inc. - 6
+  password: amazonskr05
+  port: 443
+  server: 3.112.128.236
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇯🇵JP
+  delay: 1707
+  name: 日本 - 东京 - AMAZON-RESOURCES - 2
+  password: amazonskr05
+  port: 443
+  server: 175.41.236.186
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇧🇪BE
+  delay: 519
+  name: 日本 - 东京 - Amazon.com, Inc. - 1_1
+  password: amazonskr05
+  port: 443
+  server: 57.180.42.246
+  type: ss
+- country: 🇯🇵JP
+  delay: 841
+  name: 日本 - 东京 - Amazon.com, Inc. - 5
+  password: 8zlR8O7E3S8uqex4xYnpp8O6C3lZejBCZO53eYD7XIAaaTBRC3Cj9SCFxlAwKAwD2yyN3
+  port: 443
+  server: 54.249.161.173
+  skip-cert-verify: true
+  sni: sniffle.meijireform.com
+  type: trojan
+  udp: true
+- country: 🇸🇪 SE
+  delay: 2205
+  name: 瑞典 - 斯德哥尔摩 - Amazon Technologies Inc. - 1
+  password: telegram-id-directvpn
+  port: 22222
+  server: 13.48.88.58
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- cipher: aes-256-gcm
+  delay: 2782
+  name: 新加坡 - 新加坡 - Akari Networks - 3
+  password: cf1e8002-c184-4f9e-bbff-ac9ab2d76d25
+  port: 46989
+  server: gzyd3.piaomiaoxu.net
+  type: ss
+- cipher: aes-256-gcm
+  country: 🇨🇳CN
+  delay: 1193
+  name: 新加坡 - 新加坡 - Akari Networks - 4
+  password: 17ac099b-3a2d-4484-b8a4-f58092a03903
+  port: 46989
+  server: gzyd5-1.piaomiaoxu.net
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇺🇸US
+  delay: 2584
+  name: 新加坡 - 新加坡 - Amazon Technologies Inc - 2
+  password: amazonskr05
+  port: 443
+  server: 47.129.221.160
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇸🇬SG
+  delay: 2392
+  name: 新加坡 - 新加坡 - Amazon.com, Inc. - 1
+  password: amazonskr05
+  port: 443
+  server: 52.77.209.61
+  type: ss
+- delay: 1195
+  name: 英国 - 豪恩斯洛 - Cloudflare, Inc. - 1_1
+  network: ws
+  port: 8080
+  server: 109.61.95.21
+  servername: vless.ifx.us.kg
+  tls: true
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: vless.ifx.us.kg
+    path: /?ed=2560
+- country: 🇬🇧GB
+  delay: 1103
+  name: 英国 - 伦敦 - Amazon Technologies Inc. - 2
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 35.179.49.152
+  skip-cert-verify: true
+  sni: trojan.burgerip.co.uk
+  type: trojan
+  udp: true
+- country: 🇬🇧 GB
+  delay: 2031
+  name: 英国 - 伦敦 - Amazon Technologies Inc. - 3
+  password: telegram-id-directvpn
+  port: 22222
+  server: 18.135.221.227
+  skip-cert-verify: true
+  type: trojan
+  udp: true
