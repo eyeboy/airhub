@@ -5413,3 +5413,45 @@ proxies:
     headers:
       Host: icy-tooth-3d05.plzthsmdnss-7d8ly.workers.dev
     path: /obdii.cfd/linkws
+- alterId: '0'
+  cipher: auto
+  name: 🗿ConfigV2RayNG
+  network: ws
+  port: '2082'
+  server: s2.db-link02.top
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 1c713b69-0abe-3a1e-bf70-b0579ea2f772
+  ws-opts:
+    headers:
+      Host: 100-207-132-205.s2.db-link02.top
+    path: /dabai.in172.64.25.37
+- alterId: '0'
+  cipher: auto
+  name: 🗿ConfigV2RayNG_1
+  network: ws
+  port: '33891'
+  server: 65.75.192.110
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: d62e0a3c-565f-43db-efa4-d51de7e2d1cf
+  ws-opts:
+    headers:
+      Host: ''
+    path: /d62e0a3c
+- alterId: '0'
+  cipher: auto
+  name: 🗿ConfigV2RayNG_2
+  network: httpupgrade
+  port: '80'
+  server: 103.184.45.164
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 782efefc-aac2-a7f2-6e2b-e42f7bc5d75a
+  ws-opts:
+    headers:
+      Host: sb24.ir.d7e1909f3a7e4477.www.speedtest.net.kish.ir.tabnak.ir.entekhab.ir.leader.ir.asiatech.ir.divar.ir.shahr-bank.ir.postbank.ir.qmb.ir.sid.ir.codal.ir.anten.ir.011010100110111101110011011101000110000101110010110111010001100.dE.
+    path: /api01/deam_net301.67 GB/?ed=2560
