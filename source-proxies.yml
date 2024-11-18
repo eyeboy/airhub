@@ -5371,3 +5371,45 @@ proxies:
     headers:
       Host: worker-divine-hat-02d6.savofir317.workers.dev
     path: /glweidf.cfd/linkws
+- alterId: 0
+  cipher: auto
+  name: 🇬🇧GB-129.151.93.231-1287
+  network: ws
+  port: 443
+  server: 16.724064.xyz
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: b7cf4466-956a-4639-b861-0cf78cbb6f8f
+  ws-opts:
+    headers:
+      Host: 16.724064.xyz
+    path: /zlppvws
+- alterId: 0
+  cipher: auto
+  name: 13,14|英国|@ripaojiedian
+  network: ws
+  port: '2086'
+  server: cdn3.bpcdn.cc
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: fbe5943b-58ad-4862-8af3-30e8b4f10dd0
+  ws-opts:
+    headers:
+      Host: ukh74wfshj2jg2jcsq.lovebaipiao.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 🏁RELAY-104.16.60.8-0213
+  network: ws
+  port: 2095
+  server: 104.16.60.8
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d
+  ws-opts:
+    headers:
+      Host: icy-tooth-3d05.plzthsmdnss-7d8ly.workers.dev
+    path: /obdii.cfd/linkws
