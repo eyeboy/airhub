@@ -5827,3 +5827,17 @@ proxies:
   skip-cert-verify: true
   type: trojan
   udp: true
+- alterId: 0
+  cipher: auto
+  name: 13|🇰🇷 韩国2|@ripaojiedian
+  network: tcp
+  port: 34103
+  server: 45.94.68.179
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: f083427f-9d8b-4863-b4a5-fc15255547d2
+  ws-opts:
+    headers:
+      Host: 45.94.68.179
+    path: /
