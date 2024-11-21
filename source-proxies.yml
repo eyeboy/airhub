@@ -6493,3 +6493,17 @@ proxies:
     headers:
       Host: yelan.lastronin.cloudns.org
     path: /link/hms02.fxiaomi.sbs
+- alterId: '1'
+  cipher: auto
+  name: '@ConfigV2RayNG_4'
+  network: ws
+  port: '443'
+  server: kalavryta.org
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    headers:
+      Host: kalavryta.org
+    path: linkvws
