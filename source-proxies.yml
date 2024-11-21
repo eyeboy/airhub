@@ -6535,3 +6535,31 @@ proxies:
     headers:
       Host: 103.224.80.56
     path: /
+- alterId: '0'
+  cipher: auto
+  name: ⭕35@ConfigV2RayNG
+  network: ws
+  port: '37543'
+  server: 65.75.192.48
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 4674cbfc-f9ab-4c47-eec1-ba0a98ae370e
+  ws-opts:
+    headers:
+      Host: ''
+    path: /67jfsf
+- alterId: '0'
+  cipher: auto
+  name: ⭕51@ConfigV2RayNG
+  network: tcp
+  port: '23423'
+  server: 206.206.80.66
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 8825fd04-9005-4410-b48c-d2f345ec7fee
+  ws-opts:
+    headers:
+      Host: ''
+    path: ''
