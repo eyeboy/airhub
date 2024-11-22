@@ -6563,3 +6563,17 @@ proxies:
     headers:
       Host: ''
     path: ''
+- alterId: '0'
+  cipher: auto
+  name: 🇩🇪🌏 @customv2ray کانفیگ های بیشتر عضو شو
+  network: tcp
+  port: '9090'
+  server: 2.182.174.21
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: fddf88ed-8c70-42ad-c12e-5f40841e6f00
+  ws-opts:
+    headers:
+      Host: ''
+    path: ''
