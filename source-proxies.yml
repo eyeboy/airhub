@@ -6773,3 +6773,73 @@ proxies:
     headers:
       Host: e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com
     path: /obdii.cfd:443/linkws
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸US-216.24.57.36-1868
+  network: ws
+  port: 443
+  server: 216.24.57.36
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d
+  ws-opts:
+    headers:
+      Host: e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com
+    path: /obdii.cfd:443/linkws
+- alterId: '0'
+  cipher: auto
+  name: 'Telegram : @Vless_vmess'
+  network: ws
+  port: '443'
+  server: bs.putihb.org
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    headers:
+      Host: bs.putihb.org
+    path: linkvws
+- alterId: 0
+  cipher: auto
+  name: 🇮🇳IN-152.67.190.105-1898
+  network: ws
+  port: 443
+  server: 152.67.190.105
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d
+  ws-opts:
+    headers:
+      Host: e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com
+    path: /obdii.cfd:443/linkws
+- alterId: 0
+  cipher: auto
+  name: 🇯🇵JP-131.186.57.111-1866
+  network: ws
+  port: 443
+  server: 131.186.57.111
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d
+  ws-opts:
+    headers:
+      Host: e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com
+    path: /obdii.cfd:443/linkws
+- alterId: 0
+  cipher: auto
+  name: 🏁RELAY-172.66.168.173-1245
+  network: ws
+  port: 8080
+  server: 172.66.168.173
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 0d45efe7-99f1-4cc3-9e0e-66018c2097db
+  ws-opts:
+    headers:
+      Host: 63057454815634280367285269895900.v2line.net
+    path: /V2LINE-TELEGRAM-CHANNEL-VMESS-WS
