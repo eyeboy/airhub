@@ -6843,3 +6843,17 @@ proxies:
     headers:
       Host: 63057454815634280367285269895900.v2line.net
     path: /V2LINE-TELEGRAM-CHANNEL-VMESS-WS
+- alterId: 0
+  cipher: auto
+  name: 🇰🇷KR-138.2.123.70-1842
+  network: ws
+  port: 443
+  server: 138.2.123.70
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d
+  ws-opts:
+    headers:
+      Host: e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com
+    path: /obdii.cfd:443/linkws
