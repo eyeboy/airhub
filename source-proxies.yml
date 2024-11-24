@@ -7529,3 +7529,17 @@ proxies:
     headers:
       Host: e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com
     path: /obdii.cfd:443/linkws
+- alterId: 0
+  cipher: auto
+  name: 🏁RELAY-104.16.60.8-0151
+  network: ws
+  port: 2052
+  server: 104.16.60.8
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: f584de15-2034-4170-a723-f48c2bae5e0f
+  ws-opts:
+    headers:
+      Host: worker-mute-bar-1719.nifotok993.workers.dev
+    path: /afrhms16v.bestxray.buzz/linkws
