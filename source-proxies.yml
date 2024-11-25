@@ -8335,3 +8335,17 @@ proxies:
     headers:
       Host: 6ba6-sound-6ba6.siliy37818.workers.dev
     path: /obdii.cfd/linkws
+- alterId: '0'
+  cipher: auto
+  name: '[🏁]t.me/ConfigsHub_8'
+  network: tcp
+  port: '22324'
+  server: 23.166.88.183
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 04621bae-ab36-11ec-b909-0242ac120002
+  ws-opts:
+    headers:
+      Host: ''
+    path: ''
