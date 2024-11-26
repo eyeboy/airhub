@@ -8705,3 +8705,17 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+- alterId: '0'
+  cipher: auto
+  name: '@Vpn_Tehran ❤️ کانفیگ پرسرعت در کانال تلگرام'
+  network: tcp
+  port: '22324'
+  server: 38.99.82.128
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 04621bae-ab36-11ec-b909-0242ac120002
+  ws-opts:
+    headers:
+      Host: ''
+    path: ''
