@@ -8377,3 +8377,331 @@ proxies:
     headers:
       Host: harriscity.com
     path: /linkvws
+- alterId: '0'
+  cipher: auto
+  name: '[🇫🇷]t.me/ConfigsHub'
+  network: tcp
+  port: '44513'
+  server: 162.19.25.207
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 4552bdb6-e008-43ac-926d-c6c6c5a6fc76
+  ws-opts:
+    headers:
+      Host: ''
+    path: ''
+- client-fingerprint: qq
+  delay: 1111
+  name: 德国 - 法兰克福 - Oracle Corporation - 3
+  network: tcp
+  port: 18443
+  reality-opts:
+    public-key: bRUCz8KaceEKnBFT5V7czJj1t0OAu_nbKnMyVfyeK1I
+    short-id: e6658462
+  server: frankfurt.faforex.eu.org
+  servername: www.tesla.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 311faab5-5e89-4f41-b2a4-ca4452508cc6
+- cipher: rc4-md5
+  country: 🇩🇪DE
+  delay: 1136
+  name: 德国 - Frankfurt - GTHost - 1
+  password: 14fFPrbezE3HDZzsMOr6
+  port: 8080
+  server: 193.108.119.230
+  type: ss
+- country: 🇩🇪DE
+  delay: 1205
+  name: 德国 - Frankfurt am Main - Amazon.com, Inc. - 2
+  network: tcp
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 18.158.30.72
+  sni: trojan.burgerip.co.uk
+  type: trojan
+  udp: true
+- country: 🇺🇸 US
+  delay: 945
+  name: 法国 - 巴黎 - Amazon Technologies Inc. - 1
+  password: telegram-id-directvpn
+  port: 22222
+  server: 13.37.176.252
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  delay: 2233
+  name: 荷兰 - 阿姆斯特丹 - Aeza International LTD - 1_1
+  network: ws
+  port: 11490
+  server: 213.176.7.147
+  tls: false
+  type: vless
+  uuid: 17c61faf-dd26-4671-e0f3-0ac9ac052ba5
+  ws-opts:
+    path: /
+- country: 🇨🇦CA
+  delay: 1837
+  name: 加拿大 - 多伦多 - Amazon Technologies Inc. - 1
+  network: tcp
+  password: '3648425794742788096'
+  port: 443
+  server: 35.182.64.76
+  sni: legal-oarfish.squid592.motorcycles
+  type: trojan
+  udp: true
+- client-fingerprint: safari
+  delay: 1215
+  name: 美国 - 凤凰城 - Oracle Corporation - 18
+  network: tcp
+  port: 18443
+  reality-opts:
+    public-key: 8233FxCRw1a_aCJ8d1HwHBMD_fABUNNW7rsrFe3vK0s
+    short-id: e6658462
+  server: phx-plus-1ddns.faforex.eu.org
+  servername: www.tesla.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 311faab5-5e89-4f41-b2a4-ca4452508cc6
+- alterId: 0
+  cipher: auto
+  delay: 1744
+  name: 美国 - 洛杉矶 - Psychz Networks - 12_2
+  network: ws
+  port: 2095
+  server: 104.26.5.123
+  tls: false
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      Host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  delay: 1422
+  name: 美国 - 洛杉矶 - Psychz Networks - 13_1
+  network: ws
+  port: 2095
+  server: 104.16.148.244
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      Host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  delay: 904
+  name: 美国 - 洛杉矶 - Psychz Networks - 14_2
+  network: ws
+  port: 2095
+  server: 104.19.42.49
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      Host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  delay: 1317
+  name: 美国 - 洛杉矶 - Psychz Networks - 15_1
+  network: ws
+  port: 2082
+  server: 104.26.5.123
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip3.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  delay: 1387
+  name: 美国 - 洛杉矶 - Psychz Networks - 16_1
+  network: ws
+  port: 2095
+  server: 104.20.18.168
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      Host: c2.6016725.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  country: 🏁ZZ
+  delay: 1739
+  h2-opts: {}
+  http-opts: {}
+  name: 美国 - 洛杉矶 - Psychz Networks - 17_1
+  network: ws
+  port: 2082
+  server: 190.93.247.203
+  servername: ip18.6929198.xyz
+  skip-cert-verify: true
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      HOST: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- cipher: aes-256-gcm
+  delay: 2040
+  name: 美国 - 迈阿密 - GTHost - 9
+  password: KixLvKzwjekG00rm
+  port: 5500
+  server: 38.110.1.46
+  type: ss
+- cipher: chacha20-ietf
+  delay: 1434
+  name: 美国 - 聖荷西 - PEG TECH INC - 6_1
+  password: asd123456
+  port: 8388
+  server: 137.175.113.192
+  type: ss
+- client-fingerprint: chrome
+  delay: 1382
+  name: 美国 - Ashburn - Amazon Technologies Inc. - 19
+  network: ws
+  port: 22222
+  server: 3.93.159.185
+  servername: telegram-channel-vlessconfig.sohala.uk
+  tls: true
+  type: vless
+  uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e
+  ws-opts:
+    path: /telegram-channel-vlessconfig-ws
+- cipher: aes-256-cfb
+  country: 🇳🇱NL
+  delay: 1236
+  name: 挪威 - 桑德尔福德 - Berdiev Ruslan Mukhabatovich - 1
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 51.15.15.82
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇯🇵JP
+  delay: 2929
+  name: 日本 - 东京 - Amazon.com, Inc. - 2_2
+  password: amazonskr05
+  port: 443
+  server: 35.77.100.154
+  type: ss
+- cipher: chacha20-ietf
+  country: 🇺🇸US
+  delay: 664
+  name: 日本 - 东京 - PEG TECH INC - 1
+  password: asd123456
+  port: 8388
+  server: 107.148.6.121
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  delay: 1393
+  name: 新加坡 - 新加坡 - Akile LTD - 1_1
+  password: d3571b43-f940-410c-bf6b-f35d2db19a17
+  port: 31640
+  server: jsyd.yunnode.win
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  delay: 1565
+  name: 新加坡 - 新加坡 - Akile LTD - 3
+  password: 75393bce-9f1d-4263-98f0-27bf0f640a77
+  port: 35627
+  server: jsyd.yeahfast.com
+  type: ss
+- cipher: rc4-md5
+  country: 🇸🇬SG
+  delay: 842
+  name: 新加坡 - 新加坡 - DigitalOcean, LLC - 6
+  password: 14fFPrbezE3HDZzsMOr6
+  port: 8080
+  server: 68.183.227.45
+  type: ss
+- cipher: chacha20-ietf
+  country: 🇭🇰HK
+  delay: 209
+  name: 新加坡 - 新加坡 - Greywolf Networks Pte. Ltd. - 5
+  password: asd123456
+  port: 8388
+  server: 103.36.90.195
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  delay: 1329
+  name: 英国 - 金丝雀码头 - Catixs Ltd - 1_1
+  password: d3571b43-f940-410c-bf6b-f35d2db19a17
+  port: 31648
+  server: jsyd.yunnode.win
+  type: ss
+- country: 🏁 ZZ
+  delay: 2237
+  name: 越南 - 芽莊市 - DEVTTT - 1
+  password: 94d219c9-1afc-4d42-b090-8b3794764380
+  port: 443
+  server: 160.30.21.105
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- alterId: 64
+  cipher: auto
+  delay: 1148
+  name: 中国 - 怀化市 - PEG TECH INC - 6
+  network: ws
+  port: 38003
+  server: 38.14.107.228
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+  ws-opts:
+    headers:
+      Host: www.23179753.xyz
+    path: /path/181721272114
+- cipher: chacha20-ietf-poly1305
+  delay: 1253
+  name: 中国 - 台湾 - Akile LTD - 5
+  password: d3571b43-f940-410c-bf6b-f35d2db19a17
+  port: 31632
+  server: jsyd.yunnode.win
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  delay: 1138
+  name: 中国 - 香港 - Akile LTD - 1
+  password: 75393bce-9f1d-4263-98f0-27bf0f640a77
+  port: 35635
+  server: jsyd.yeahfast.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  delay: 1329
+  name: 中国 - 香港 - Akile LTD - 3
+  password: 75393bce-9f1d-4263-98f0-27bf0f640a77
+  port: 35630
+  server: jsyd.yeahfast.com
+  type: ss
+- alterId: 64
+  cipher: auto
+  delay: 727
+  name: 中国 - 香港 - CTG Server Ltd. - 8
+  port: 46602
+  server: 183.236.51.23
+  tls: false
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
