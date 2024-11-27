@@ -8733,3 +8733,17 @@ proxies:
     headers:
       Host: quiet-moon-132a.xetag42714.workers.dev
     path: /ivideos.sbs/linkws
+- alterId: 64
+  cipher: auto
+  name: 🇺🇸US-137.175.20.213-0903
+  network: ws
+  port: 37001
+  server: 137.175.20.213
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+  ws-opts:
+    headers:
+      Host: ''
+    path: /path/1729850206441
