@@ -8719,3 +8719,17 @@ proxies:
     headers:
       Host: ''
     path: ''
+- alterId: '0'
+  cipher: auto
+  name: '[🇨🇦]t.me/ConfigsHub_9'
+  network: ws
+  port: '443'
+  server: 104.17.197.31
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 441da342-ce90-441e-bff9-d2ceb55e68ca
+  ws-opts:
+    headers:
+      Host: quiet-moon-132a.xetag42714.workers.dev
+    path: /ivideos.sbs/linkws
