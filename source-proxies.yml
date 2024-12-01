@@ -21452,3 +21452,73 @@ proxies:
     headers:
       Host: sg03.d9ab-22af-fc39ef1d39a0.cfd
     path: /
+- alterId: 0
+  cipher: auto
+  name: 🏁RELAY-104.26.0.156-1507
+  network: ws
+  port: 8880
+  server: 104.26.0.156
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
+  ws-opts:
+    headers:
+      Host: m1.106778.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 🏁RELAY-162.159.45.141-1607
+  network: ws
+  port: 8880
+  server: 162.159.45.141
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
+  ws-opts:
+    headers:
+      Host: m1.106778.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 🏁RELAY-104.21.238.32-1546
+  network: ws
+  port: 8880
+  server: 104.21.238.32
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
+  ws-opts:
+    headers:
+      Host: m1.106778.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 🏁RELAY-104.18.114.34-1629
+  network: ws
+  port: 8880
+  server: 104.18.114.34
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
+  ws-opts:
+    headers:
+      Host: m1.106778.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 🏁RELAY-104.21.238.199-0960
+  network: ws
+  port: 2086
+  server: 104.21.238.199
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde
+  ws-opts:
+    headers:
+      Host: p1.613055.xyz
+    path: github.com/Alvin9999
