@@ -21438,3 +21438,17 @@ proxies:
     headers:
       Host: obdii.cfd
     path: /linkws
+- alterId: '0'
+  cipher: auto
+  name: 🍋87@ConfigV2RayNG
+  network: ws
+  port: '80'
+  server: 7cRom.c6tu5uwk9.buzz
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 53598401-31e1-4ce3-bb2e-6c00a8fc3e01
+  ws-opts:
+    headers:
+      Host: sg03.d9ab-22af-fc39ef1d39a0.cfd
+    path: /
