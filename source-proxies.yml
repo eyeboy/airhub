@@ -28828,3 +28828,17 @@ proxies:
   server: naiu-hk.05vr9nyqg5.download
   sni: cloudflare.node-ssl.cdn-alibaba.com
   type: trojan
+- alterId: 64
+  cipher: auto
+  name: 0|--38_2
+  network: ws
+  port: 38003
+  server: 38.14.107.225
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+  ws-opts:
+    headers:
+      Host: www.23179753.xyz
+    path: /path/181721272114
